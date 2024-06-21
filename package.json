@@ -1,0 +1,17 @@
+{
+  "name": "electrical-node",
+  "version": "1.0.0",
+  "description": "the node version of the proxo i think",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@tomphttp/bare-server-node": "^2.0.3",
+    "express": "^4.19.2"
+  }
+}
